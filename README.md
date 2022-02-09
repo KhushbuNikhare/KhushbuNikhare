@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- ⚡ Fun fact **I am a Graduate Mechanical Engineer before started learning MERN Stack**
+- ⚡ Fun fact **I am a Graduate Electronics and Telecommunication Engineer before started learning MERN Stack**
 
 
 <h3 align="left">Languages and Tools:</h3>
