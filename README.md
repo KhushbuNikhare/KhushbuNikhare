@@ -1,10 +1,11 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Khushbu Nikhare</h1>
-<h3 align="center">A passionate Fullstack Web Developer from India</h3>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Khushbu Nikhare</h1>
+<h3 align="center">A Passionate Fullstack Web Developer From India</h3>
 
-- 🌱 I’m currently learning **MERN Stack**
+<h3 align="center">🌱  I have always been curious about technology, even as a child. I spent a lot of time around computers and that made me even more curious. Once I graduated in engineering, I decided that it was time to satiate my curiosity and dive into the world of coding.</h3>
 
-- ⚡ Fun fact **I am a Graduate Electronics and Telecommunication Engineer before started learning MERN Stack**
 
+![](https://komarev.com/ghpvc/?username=your-github-KhushbuNikhare&style=flat-square&label=Profile+Views)
+<img src="https://badges.pufler.dev/Commits/yearly/KhushbuNikhare" />
 
 <h3 align="left">Languages and Tools:</h3>
 <p>
